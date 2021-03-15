@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Conchallos
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      It's possible to tear out the world's poverty… 
+                      but [we] will need to govern ourselves as a species,
+                       or we'll succumb.
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          :adamsconchallos/adamsconchallos.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -24,8 +24,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  name              : Adams Ceballos
+  image             : https://twitter.com/adamsconchallos/photo
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
