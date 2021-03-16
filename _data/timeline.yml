@@ -1,17 +1,28 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
+- title: Asistente de investigación
+  from: 2017
+  to: presente
+  description: Trabajo como asistente de investigación en la línea de sustentabilidad
+              socioeconómica del centro interdisciplinario para la investigación
+              acuícola (INCAR). He trabajado en el ámbito de asesorías al gobierno
+              regional del Biobío y Antofagasta. 
+- title: Profesor part time
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: presente
+  description: Hago clases a nivel de pregrado y postgrado de economía, econometría y economía ambiental 
+              en distintas universidades de la región del Biobío. 
+- title: Magíster en economía de recursos naturales y medio ambiente
+  from: 2017
+  to: 2014
+  description: Como me gustó la economía, y después de haber trabajado como ingeniero comercial, volví
+              a ña udec a estudiar un master. Mi tesis la hice con el profesor Jorge Dresdner sobre
+              impactos del establecimiento de centros salmoneros en la pobreza medida en ingresos en
+              zonas remotas costeras en la región de los lagos. Les dejo el link del artículo que publicamos en
+              Food Policy. https://www.sciencedirect.com/science/article/abs/pii/S030691921730742X
+- title: Ingeniero Comercial
+  from: 2006
+  to: 2011
+  description: Estudié ingeniería comercial en la facultad de ciencias económicas y administrativas de la UdeC. 
+              En esa ocasión me especialicé en economía y mi tesis fue sobre impactos de la reforma procesal penal
+              en las tasas de delincuencia.
+

@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
+- name: Trekking
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Correr
+  percentage: 90
+  color: success
+
+- name: Ironía
   percentage: 90
   color: success
