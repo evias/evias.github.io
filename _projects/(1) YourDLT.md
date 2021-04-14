@@ -1,6 +1,6 @@
 ---
 name: YourDLT
-tools: [clases]
+tools: [Typescript,Symbol]
 image: http://yourdlt.tools/logo-yourdlt-192x192.png
 description: Distributed Ledgers for You
 ---
