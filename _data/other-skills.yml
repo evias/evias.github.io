@@ -1,11 +1,11 @@
-- name: Trekking
-  percentage: 95
+- name: Authors
+  percentage: 90
   color: info
 
-- name: Correr
+- name: Speakers
   percentage: 90
   color: success
 
-- name: Ironía
+- name: Advisors
   percentage: 90
   color: success
