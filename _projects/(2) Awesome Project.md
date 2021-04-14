@@ -1,20 +1,17 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: UBC Digital Magazine
+tools: [NEM, Bitcoin, Symbol]
+image: https://ubc.digital/wp-content/uploads/2021/02/ubc-logo-black-500x169-1.png
+description: We started this project in the optic of changing how end-users think about reading online – but also because we want to give our end-users, the tools they need to curate their newsfeed and unlock more valuable content.
 ---
 
-# The Movies Project
+# UBC Digital Magazine
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+UBC Digital Magazine produces high-quality free educational content relating to blockchain and distributed ledger technology including: sample use cases, tutorials, articles, showcases, reviews and outboxing experiences making use of emerging technologies like blockchain and/or others.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
+We focus on high-quality and innovative software development skills to produce smart use cases, tutorials and showcases of using blockchain technology. Our articles vary in scope and go from using blockchain for transacting value online, via redefining supply chain processes using a blockchain environment, over to using blockchain to execute cross chain atomic swaps [insert more tech words].
 
-## Search Movies
+UBC Digital Magazine offers many features to make it funny reading, using and inspecting blockchain technology. By introducing gamification algorithms and rewards/incentives for our subscribers, we aim to give every reader a little of what blockchain can be.
 
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+We started this project in the optic of changing how end-users think about reading online – but also because we want to give our end-users, the tools they need to curate their newsfeed and unlock more valuable content.
 
-<p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
-</p>
