@@ -1,12 +1,9 @@
 ### Site Settings ###
-title               : Conchallos
+title               : Using Blockchain
 description         : >-
-                      It's possible to tear out the world's poverty… 
-                      but [we] will need to govern ourselves as a species,
-                       or we'll succumb.
-                       "**José pepe Mujica**"
+                      Making blockchain real
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : adamsconchallos/adamsconchallos.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : UsingBlockchain/usingblockchain.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -25,26 +22,26 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Adams Ceballos
-  image             : https://pbs.twimg.com/profile_images/1244126491505500162/nyF-4fO4_400x400.jpg
-  behance           : your_username
+  name              : Using Blockchain
+  image             : https://ubc.digital/wp-content/uploads/2021/02/ubc-logo-black-500x169-1.png
+#  behance           : your_username
 # dribbble          : your_username
-  email             : aceballos@udec.cl
-  facebook          : your_username
-  github            : adamsconchallos
+  email             : info@ubc.digital
+  facebook          : UBCDigital
+  github            : UsingBlockchain
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : https://www.linkedin.com/showcase/ubc-digital
+#  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : adamsconchallos
+  twitter           : UBC_Digital
 # vimeo             : your_username
-# youtube           : your_channel_name
+ youtube           : https://www.youtube.com/channel/UCnyWf1c2Gt8XjwliO-jz6gA
 # keybase           : your_username
 
 
