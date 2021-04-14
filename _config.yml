@@ -32,18 +32,18 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-#  linkedin          : https://www.linkedin.com/showcase/ubc-digital
+  linkedin          : ubc-digital
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
- tumblr            : ubc.digital
+# tumblr            : ubc.digital
 # twitch            : your_username
   twitter           : UBC_Digital
 # vimeo             : your_username
   youtube           : channel/UCnyWf1c2Gt8XjwliO-jz6gA
 # keybase           : your_username
-
+  website           : https://ubc.digital
 
 ### Posts ###
 permalink: /blog/:title
