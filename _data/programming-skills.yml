@@ -1,11 +1,19 @@
-- name: R
-  percentage: 70
-  color: danger
-
-- name: Python
-  percentage: 10
+- name: PHP
+  percentage: 99
   color:
 
-- name: Stata
-  percentage: 60
-  color: dark
+- name: Typescript
+  percentage: 99
+  color:
+
+- name: Javascript (ES*)
+  percentage: 90
+  color:
+    
+- name: C++ 
+  percentage: 90
+  color:
+    
+- name: Python 
+  percentage: 85
+  color:
