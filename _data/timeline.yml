@@ -1,29 +1,35 @@
 
-- title: YourDLT: Distributed Ledgers for You
+- title: "YourDLT: Distributed Ledgers for You (Blockchain)"
   from: 2021
   to: present
   description: Are you looking into a launch of your own blockchain network? Our team of experts will help
               you configure a distributed ledger network for your business and launch it for you. We walk
               you through from the initial setup of the network, to connecting peers from your communities.
               Our networks are accompanied with a Node Monitor, Explorer and Wallet Software Packages.
-- title: Open Source Software Development for Symbol
+- title: "Open Source Software Development for Symbol (Blockchain)"
   from: 2021
   to: present
-  description: >-
-              At Using Blockchain Ltd, we are making blockchain real! We develop products in the blockchain
+  description: At Using Blockchain Ltd, we are making blockchain real! We develop products in the blockchain
               industry with a focus on accessibility. We work mostly in the open source realm and believe in
               an open (public) access to technology.
-- title: Public Authoring for UBC Digital Magazine
+- title: "Public Authoring for UBC Digital Magazine (Blockchain)"
   from: 2020
   to: present
   description: From software development for open source projects to authoring open standard definitions, via 
               the definition of use cases and showcases for the blockchain industry and the development of client
               applications and client libraries for Symbol from NEM - our company offers services in the field of
               software development and distributed ledger technology.
-- title: Open Source Software Development for NEM
+- title: "Open Source Software Development for NEM (Blockchain)"
   from: 2016
   to: 2020
   description: Head of development @ NEM.io Foundation - managing client applications development projects
               for NEM, Symbol & Catapult Distributed Ledger, defining open protocols and development standards
               for NEM, defining wallets integration processes, and many more... (NIP6, NIP7, NIP8, NIP13)
+- title: "Open Source Software Development with eVias Services"
+  from: 2012
+  to: 2016
+  description: At eVias Services (evias.be), we run a Software as a Service webshop for Website owners and
+              companies that want to improve their online presence with Apps that are accessible from any
+              device with a Browser. Our team is specialized in the development of software products using
+              innovative development techniques and using the latest frameworks and web standards.
 
