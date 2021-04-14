@@ -5,11 +5,20 @@ style:
 color: 
 description: Our company's Github Sponsors profile is live! You can now sponsor us to support our open source work and authors.
 ---
+
 ## Who is who
 
 Using Blockchain Ltd is a company limited by shares, established in London in June 2020. Originally founded by Grégory Saive - member of the [NEMTech PMC](https://github.com/nemtech/community) focussing mainly on [**Symbol from NEM**](https://symbolplatform.com) where he lead the development of Client Apps (Desktop Wallet, Explorer, Faucet, CLI & Docs) as the Head of Development of the NEM.io Foundation starting in 2019 to 2021.
 
 The team at Using Blockchain Ltd is composed of Bitcoin and blockchain pioneers that focus most of their time on open source projects and open standards. Reach out to us to find out more about our team!
+
+You can sponsor us on the following platforms:
+
+| Platform | Sponsor Link |
+| --- | --- |
+| Paypal | [https://paypal.me/usingblockchainltd](https://paypal.me/usingblockchainltd) |
+| Patreon | [https://patreon.com/usingblockchainltd](https://patreon.com/usingblockchainltd) |
+| Github | [https://github.com/sponsors/UsingBlockchain](https://github.com/sponsors/UsingBlockchain) |
 
 ## Our work
 
