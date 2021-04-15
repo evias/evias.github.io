@@ -1,5 +1,5 @@
 ---
-title: Symbol from NEM: The ultimate guide to start harvesting blocks
+title: "Symbol from NEM: The ultimate guide to start harvesting blocks"
 tags: [Blockchain, cryptocurrency, NEM, source code, Symbol]
 style: 
 color: 
