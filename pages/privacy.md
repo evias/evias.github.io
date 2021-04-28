@@ -12,7 +12,7 @@ weight: 4
 
 <p>This Privacy Policy applies to the processing of personal information by Using Blockchain Ltd of:</p>
 <ul class="obullets">
-<li>visitors and users of the various Using Blockchain Ltd sites, including our websites on <a href="https://ubc.digital">ubc.digital</a>, computer or mobile software applications and our social media pages that link to this Privacy Policy (collectively referred to as the "<strong>UBC Digital Sites</strong>");</li>
+<li>visitors and users of the various Using Blockchain Ltd sites, including our websites on <a href="https://ubc.digital">ubc.digital</a>, <a href="https://dings.app">dings.app</a>, computer or mobile software applications and our social media pages that link to this Privacy Policy (collectively referred to as the "<strong>UBC Digital Sites</strong>");</li>
 <li>attendees of Using Blockchain Ltd-sponsored events;</li>
 <li>customers and prospective customers and their representatives;</li>
 <li>subscribers to UBC Digital Magazine; and</li>
