@@ -15,3 +15,18 @@ UBC Digital Magazine offers many features to make it funny reading, using and in
 
 We started this project in the optic of changing how end-users think about reading online – but also because we want to give our end-users, the tools they need to curate their newsfeed and unlock more valuable content.
 
+## Installation
+
+UBC Digital Magazine is available from *any device with a Browser* (e.g. Firefox, Google Chrome, Microsoft Edge, Opera, etc.)
+
+1. Open your Browser and navigate to the following URL: [https://ubc.digital](https://ubc.digital).
+
+2. Login to your account and install UBC Digital Magazine on your device when prompted.
+
+## Sponsor us
+
+| Platform | Sponsor Link |
+| --- | --- |
+| Paypal | [https://paypal.me/usingblockchainltd](https://paypal.me/usingblockchainltd) |
+| Patreon | [https://patreon.com/usingblockchainltd](https://patreon.com/usingblockchainltd) |
+| Github | [https://github.com/sponsors/UsingBlockchain](https://github.com/sponsors/UsingBlockchain) |
