@@ -1,19 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://using-blockchain.org/pages/404.html</loc>
-<lastmod>2021-03-15T17:08:55-03:00</lastmod>
-</url>
-<url>
-<loc>https://using-blockchain.org/pages/blog.html</loc>
-<lastmod>2021-03-15T17:08:55-03:00</lastmod>
-</url>
-<url>
-<loc>https://using-blockchain.org/pages/projects.html</loc>
-<lastmod>2021-05-04T23:44:04+02:00</lastmod>
-</url>
-<url>
-<loc>https://using-blockchain.org/pages/tags.html</loc>
-<lastmod>2021-03-15T17:08:55-03:00</lastmod>
-</url>
+  <url>
+    <loc>https://using-blockchain.org/</loc>
+    <lastmod>2021-03-15T17:08:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/projects</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/projects/1-yourdlt</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/projects/2-ubc-digital-magazine</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/projects/3-dhealth-network</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/projects/4-dings</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/projects/5-symbol-distributed-apps-store</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/blog</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/blog/sponsor-us</loc>
+    <lastmod>2021-03-15T17:08:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/blog/tags</loc>
+    <lastmod>2021-03-15T17:08:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/about</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/privacy</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://using-blockchain.org/terms-of-service</loc>
+    <lastmod>2021-05-04T23:44:04+02:00</lastmod>
+  </url>
 </urlset>
