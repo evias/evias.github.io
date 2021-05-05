@@ -1,6 +1,6 @@
 ---
 name: dHealth Network
-tools: [Typescript,Symbol]
+tools: [Blockchain,Infrastructure,Healthcare]
 image: https://dhealth.network/wp-content/uploads/2021/01/dHealth-Network-Logo-color-change.png
 description: Public Blockchain Infrastructure for Healthcare
 ---
@@ -30,3 +30,7 @@ dHealth Wallet is available for Mac, Windows, and as a web application.
 | Paypal | [https://paypal.me/usingblockchainltd](https://paypal.me/usingblockchainltd) |
 | Patreon | [https://patreon.com/usingblockchainltd](https://patreon.com/usingblockchainltd) |
 | Github | [https://github.com/sponsors/UsingBlockchain](https://github.com/sponsors/UsingBlockchain) |
+
+[npm-url]: https://www.npmjs.com/package/dhealth-wallet
+[npm-badge]: https://img.shields.io/npm/v/dhealth-wallet
+[dl-badge]: https://img.shields.io/npm/dt/dhealth-wallet
