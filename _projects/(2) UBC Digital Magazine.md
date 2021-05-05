@@ -1,7 +1,7 @@
 ---
 name: UBC Digital Magazine
 tools: [NEM, Bitcoin, Symbol]
-image: https://ubc.digital/wp-content/uploads/2021/02/ubc-logo-black-500x169-1.png
+image: https://ubc.digital/wp-content/uploads/2021/02/ubc-logo-black-512x512-1.png
 description: We started this project in the optic of changing how end-users think about reading online – but also because we want to give our end-users, the tools they need to curate their newsfeed and unlock more valuable content.
 ---
 
