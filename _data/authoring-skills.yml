@@ -13,3 +13,11 @@
 - name: Automated documentation
   percentage: 99
   color: info
+
+- name: Technical article writing
+  percentage: 95
+  color: success
+
+- name: Books and syllabus writing
+  percentage: 85
+  color: success

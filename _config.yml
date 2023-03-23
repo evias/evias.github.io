@@ -1,7 +1,9 @@
 ### Site Settings ###
 title               : "Grégory Saive - eVias"
 description         : >-
-                      Making blockchain real
+                      Making blockchain real!
+                      Hi, I am Grégory Saive, born and raised in Belgium - I stepped into software at the age of 12, driven by the hobby
+                      of my father and a friend of mine who was learning C++. Here I am welcoming you 23 years later on my biography page.
 baseurl             : "" # empty quotes for *.github.io
 repository          : evias/evias.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU

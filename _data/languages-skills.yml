@@ -1,10 +1,10 @@
 - name: French
   percentage: 99
-  color: error
+  color: danger
 
 - name: German
   percentage: 99
-  color: error
+  color: danger
 
 - name: US English
   percentage: 95
