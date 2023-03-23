@@ -1,8 +1,8 @@
 ---
 title: Sponsor Me
 tags: [Crowdfunding, Technology, Blockchain]
-style: 
-color: 
+style: border
+color: success
 description: My company's Github Sponsors profile is live! You can now sponsor me to support my open source work.
 ---
 

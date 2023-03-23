@@ -45,6 +45,9 @@ as we are discovering more use for some of the listed feature scopes.
 | Paypal | [https://paypal.me/usingblockchainltd](https://paypal.me/usingblockchainltd) |
 | Patreon | [https://patreon.com/usingblockchainltd](https://patreon.com/usingblockchainltd) |
 | Github | [https://github.com/sponsors/UsingBlockchain](https://github.com/sponsors/UsingBlockchain) |
+| BuyMeACoffee | [https://www.buymeacoffee.com/resoftware](https://www.buymeacoffee.com/resoftware) |
+| Bitcoin | `3EVqgUqYFRYbf9RjhyjBgKXcEwAQxhaf6o` |
+| Ethereum ERC20 | `0x634061e116F7a043Cf9cE6BE06bF6Efe90EBf9Ef` |
 
 
 [parent-url]: https://dhealth.com

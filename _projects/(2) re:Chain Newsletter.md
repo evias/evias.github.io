@@ -1,13 +1,13 @@
 ---
-name: UBC Digital Magazine
+name: re:Chain Newsletter
 tools: [NEM, Bitcoin, Symbol, Blockchain]
 image: https://files.evias.be/ubc-logo.png
-description: UBC Digital Magazine produces high-quality free educational content relating to blockchain and distributed ledger technology including sample use cases, tutorials, articles, showcases, reviews and outboxing experiences making use of emerging technologies like blockchain and/or others.
+description: Subscribe to our re:Chain Newsletter and get updates for UBC Digital Magazine high-quality free educational content relating to blockchain and distributed ledger technology including sample use cases, tutorials, articles, showcases, reviews and outboxing experiences.
 ---
 
-# UBC Digital Magazine
+# re:Chain Newsletter
 
-UBC Digital Magazine produces high-quality free educational content relating to blockchain and distributed ledger technology including: sample use cases, tutorials, articles, showcases, reviews and outboxing experiences making use of emerging technologies like blockchain and/or others.
+Subscribe to our re:Chain Newsletter and get updates for UBC Digital Magazine high-quality free educational content relating to blockchain and distributed ledger technology including sample use cases, tutorials, articles, showcases, reviews and outboxing experiences.
 
 We focus on high-quality and innovative software development skills to produce smart use cases, tutorials and showcases of using blockchain technology. Our articles vary in scope and go from using blockchain for transacting value online, via redefining supply chain processes using a blockchain environment, over to using blockchain to execute cross chain atomic swaps [insert more tech words].
 
@@ -15,13 +15,13 @@ UBC Digital Magazine offers many features to make it funny reading, using and in
 
 We started this project in the optic of changing how end-users think about reading online – but also because we want to give our end-users, the tools they need to curate their newsfeed and unlock more valuable content.
 
-## Installation
+## How to subscribe
 
 UBC Digital Magazine is available from *any device with a Browser* (e.g. Firefox, Google Chrome, Microsoft Edge, Opera, etc.)
 
-1. Open your Browser and navigate to the following URL: [https://ubc.digital](https://ubc.digital).
+1. Open your Browser and navigate to the following URL: [https://ubc.digital/subscribe](https://ubc.digital/subscribe).
 
-2. Login to your account and install UBC Digital Magazine on your device when prompted.
+2. Confirm your newsletter subscription by opening the E-Mail we will send you and click on the confirmation link.
 
 ## Sponsor us
 
