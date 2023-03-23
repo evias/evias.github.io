@@ -1,7 +1,7 @@
 ---
 name: YourDLT
 tools: [Blockchain,Wallet,Symbol,Typescript]
-image: http://yourdlt.tools/logo-yourdlt-192x192.png
+image: https://files.evias.be/yourdlt-logo.png
 description: Distributed Ledgers for You
 ---
 

@@ -28,8 +28,11 @@ thrive, adapt and scale to an ever-changing digital era!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Authoring Skills" source=site.data.authoring-skills %}
 {% include about/skills.html title="Frameworks I use" source=site.data.frameworks-skills %}
+</div>
+
+<div class="row">
+{% include about/skills.html title="Authoring Skills" source=site.data.authoring-skills %}
 {% include about/skills.html title="Languages I speak" source=site.data.languages-skills %}
 </div>
 
