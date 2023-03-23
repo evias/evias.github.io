@@ -1,8 +1,8 @@
 ---
 name: UBC Digital Magazine
-tools: [NEM, Bitcoin, Symbol]
-image: https://ubc.digital/wp-content/uploads/2021/02/ubc-logo-black-512x512-1.png
-description: We started this project in the optic of changing how end-users think about reading online – but also because we want to give our end-users, the tools they need to curate their newsfeed and unlock more valuable content.
+tools: [NEM, Bitcoin, Symbol, Blockchain]
+image: https://ubc.digital/wp-content/uploads/2021/11/cropped-ubc-logo-test.png
+description: UBC Digital Magazine produces high-quality free educational content relating to blockchain and distributed ledger technology including sample use cases, tutorials, articles, showcases, reviews and outboxing experiences making use of emerging technologies like blockchain and/or others.
 ---
 
 # UBC Digital Magazine

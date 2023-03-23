@@ -1,8 +1,9 @@
 ---
 name: dHealth Network
 tools: [Blockchain,Infrastructure,Healthcare]
-image: https://dhealth.network/wp-content/uploads/2021/01/dHealth-Network-Logo-color-change.png
-description: Public Blockchain Infrastructure for Healthcare
+image: https://evias.be/files/dHealth-Network-Logo-blue.png
+description: dHealth Network provides a multi-tier architecture to enhance the integration of business
+            in healthcare and general performance for the blockchain network. Developers can easily build on top of the dHealth ecosystem.
 ---
 
 [![npm-badge][npm-badge]][npm-url]

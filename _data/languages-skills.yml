@@ -1,0 +1,23 @@
+- name: French
+  percentage: 99
+  color: error
+
+- name: German
+  percentage: 99
+  color: error
+
+- name: US English
+  percentage: 95
+  color: dark
+
+- name: British English
+  percentage: 85
+  color: dark
+
+- name: Spanish
+  percentage: 85
+  color: warning
+
+- name: Netherlands
+  percentage: 75
+  color: warning

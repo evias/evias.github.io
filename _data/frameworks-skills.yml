@@ -1,0 +1,19 @@
+- name: Laravel >= v8
+  percentage: 99
+  color: info
+
+- name: Vue.js
+  percentage: 99
+  color: info
+
+- name: Nest.js
+  percentage: 98
+  color: success
+
+- name: Wordpress
+  percentage: 95
+  color: warning
+
+- name: Qt (C++)
+  percentage: 85
+  color: warning

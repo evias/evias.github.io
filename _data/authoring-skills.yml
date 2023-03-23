@@ -1,0 +1,15 @@
+- name: Technical documentation
+  percentage: 99
+  color: warning
+
+- name: Technical case studies
+  percentage: 99
+  color: warning
+
+- name: Reference documentation
+  percentage: 99
+  color: info
+
+- name: Automated documentation
+  percentage: 99
+  color: info

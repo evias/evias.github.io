@@ -1,9 +1,9 @@
 ### Site Settings ###
-title               : "Using Blockchain"
+title               : "Grégory Saive - eVias"
 description         : >-
                       Making blockchain real
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : UsingBlockchain/usingblockchain.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : "" # empty quotes for *.github.io
+repository          : evias/evias.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -13,42 +13,27 @@ plugins:
 
 
 ### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
+nav_exclude:
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
   - pages/privacy.md
   - pages/terms-of-service.md
 
 
 ### Author Info ###
 author:
-  name              : Using Blockchain
-  image             : http://yourdlt.tools/logo-yourdlt-192x192.png
-#  behance           : your_username
-# dribbble          : your_username
-  email             : info@ubc.digital
+  name              : Grégory Saive
+  image             : https://evias.be/files/avatar-greg-small-192x192.jpeg
+  email             : greg@evi.as
   facebook          : UBCDigital
-  github            : UsingBlockchain
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
+  github            : evias
   linkedin          : ubc-digital
-#  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : ubc.digital
-# twitch            : your_username
   twitter           : UBC_Digital
-# vimeo             : your_username
   youtube           : channel/UCnyWf1c2Gt8XjwliO-jz6gA
-# keybase           : your_username
-# website           : https://ubc.digital
 
 ### Posts ###
-permalink: /blog/:title
+permalink: /research/:title
 
 
 ### Collections ###
@@ -61,15 +46,15 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+#disqus:
+#  shortname: your-short-name-disqus
 
 
 ### Analytics ###
 analytics:
-  enabled: true                                        # Set true to enable analytics
+  enabled: true
   google:
-    tracking_id: G-EGN3KH237W
+    tracking_id: G-T8RZ5ZCQN9
 
 
 ### Defaults for collections ###

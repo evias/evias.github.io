@@ -1,4 +1,18 @@
-
+- title: "Authoring for UBC Digital (Blockchain)"
+  from: 2020
+  to: present
+  description: From software development for open source projects to authoring open standard definitions, via 
+              the definition of use cases and showcases for the blockchain industry and the development of client
+              applications and client libraries for blockchain - UBC Digital offers services in the fields of
+              software development and blockchain product development.
+- title: "Blockchain Lead for dHealth Foundation"
+  from: 2021
+  to: 2023
+  description: The dHealth Protocol provides a multi-tier architecture to enhance the integration of business
+              in healthcare and general performance for the blockchain network. The $DHP token facilitates the
+              exchange, consent and acquisition of data between stakeholders in the ecosystem allowing for
+              liquidity on exchanges. The possibilities are endless with product and token infrastructure
+              supported by the dHealth protocol. Developers can easily build on top of the dHealth ecosystem.
 - title: "YourDLT: Distributed Ledgers for You (Blockchain)"
   from: 2021
   to: present
@@ -7,18 +21,11 @@
               you through from the initial setup of the network, to connecting peers from your communities.
               Our networks are accompanied with a Node Monitor, Explorer and Wallet Software Packages.
 - title: "Open Source Software Development for Symbol (Blockchain)"
-  from: 2021
-  to: present
+  from: 2020
+  to: 2021
   description: At Using Blockchain Ltd, we are making blockchain real! We develop products in the blockchain
               industry with a focus on accessibility. We work mostly in the open source realm and believe in
               an open (public) access to technology.
-- title: "Public Authoring for UBC Digital Magazine (Blockchain)"
-  from: 2020
-  to: present
-  description: From software development for open source projects to authoring open standard definitions, via 
-              the definition of use cases and showcases for the blockchain industry and the development of client
-              applications and client libraries for Symbol from NEM - our company offers services in the field of
-              software development and distributed ledger technology.
 - title: "Open Source Software Development for NEM (Blockchain)"
   from: 2016
   to: 2020
