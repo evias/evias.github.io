@@ -1,23 +1,23 @@
 - name: French
   percentage: 99
-  color: danger
+  color: dark
 
 - name: German
   percentage: 99
-  color: danger
+  color: dark
 
 - name: US English
   percentage: 95
-  color: dark
+  color: warning
 
 - name: British English
   percentage: 85
-  color: dark
+  color: warning
 
 - name: Spanish
   percentage: 85
-  color: warning
+  color: danger
 
 - name: Netherlands
   percentage: 75
-  color: warning
+  color: danger

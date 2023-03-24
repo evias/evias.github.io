@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : "Grégory Saive - eVias"
 description         : >-
-                      Hi, I am Grégory Saive, Software developer / Technology enthusiast / Speaker / Author.
+                      Hi, I am Grégory Saive!<br />Software developer &amp; Author;<br />Hobbies: Music, Football, Racing
 baseurl             : "" # empty quotes for *.github.io
 repository          : evias/evias.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU

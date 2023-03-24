@@ -19,7 +19,7 @@ including IRC, to defining chat protocols with Websockets, via defining cryptogr
 standards for key exchanges or ring signatures, to deterministic key derivation
 algorithms. 
 <br /><br />
-I am also the founder of <a href="https://ubc.digital" target="_blank">UBC Digital</a>,
+I am also the founder of <a href="https://ubc.digital" target="_blank" class="no-underline">UBC Digital</a>,
 a company by pioneers of the Bitcoin and blockchain industry with the aim to
 streamline the integration of distributed ledger technology for mainstream media
 and the business industry. Our team of experts will help your software project
@@ -36,6 +36,7 @@ thrive, adapt and scale to an ever-changing digital era!
 {% include about/skills.html title="Languages I speak" source=site.data.languages-skills %}
 </div>
 
+<h2>Professional experience</h2>
 <div class="row">
 {% include about/timeline.html %}
 </div>
