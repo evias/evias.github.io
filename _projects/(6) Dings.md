@@ -2,7 +2,8 @@
 name: Dings
 tools: [PHP7,Laravel,MySQL,Games,Social]
 image: https://files.evias.be/dings-logo.png
-description: Dings is a free online social app that turns your events and everyday work into a funny game. Just choose a game, or even create one. Then, invite your friends and family to the games that you want to play. Dings will record any type of competition and announce the winner.
+description: Dings is a free online social app that turns your events and everyday work into a funny game.
+            Just choose a game, or even create one. Then, invite your friends and family to the games that you want to play and organize streams.
 ---
 
 # Dings: Life is a game. Play it!

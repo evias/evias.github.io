@@ -2,7 +2,8 @@
 name: YourDLT
 tools: [Blockchain,Wallet,Symbol,Typescript]
 image: https://files.evias.be/yourdlt-logo.png
-description: Distributed Ledgers for You
+description: The Software Suite to connect with existing YourDLT blockchain networks including NEM, 
+            Symbol from NEM, dHealth Network and other YourDLT distributed ledger networks. This software is sponsored by UBC Digital.
 ---
 
 [![npm-badge][npm-badge]][npm-url]

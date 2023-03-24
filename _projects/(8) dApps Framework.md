@@ -2,10 +2,8 @@
 name: dApps Framework
 tools: [Blockchain,Healthcare,Smart Contracts,dApps]
 image: https://files.evias.be/dhealth-logo.png
-description: This framework aims to make it easier to access dHealth Network features and to develop dApps with dHealth Network. This
-            software package includes multiple *libraries* and *runtimes* that can be configured separately and that can be extended
-            and modified freely.
-
+description: This framework aims to make it easier to access dHealth Network features and to develop dApps
+            with dHealth Network. This software package includes multiple *libraries* and *runtimes* that can be configured separately.
 ---
 
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)

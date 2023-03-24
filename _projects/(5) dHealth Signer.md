@@ -2,8 +2,8 @@
 name: dHealth Signer
 tools: [Blockchain,Healthcare,Smart Contracts]
 image: https://files.evias.be/dhealth-logo.png
-description: This software provides patients with a digital identity and wallet that aims to make it easier to access dHealth Network
-            features from a mobile device. dHealth Signer is a smart contracts signature software meant to work with dApps.
+description: This software provides patients with a digital identity and wallet that aims to make it
+            easier to access dHealth Network features from a mobile device. dHealth Signer is a smart contracts signature software for dApps.
 ---
 
 [![License](https://img.shields.io/badge/License-LGPL%203.0%20only-blue.svg)][license]
