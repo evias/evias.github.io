@@ -10,7 +10,7 @@
   percentage: 99
   color: success
 
-- name: Blockchain networks (C++ & Typescript & PHP)
+- name: Blockchain networks (C++ & Typescript)
   percentage: 99
   color: info
 
@@ -26,10 +26,10 @@
   percentage: 99
   color: warning
 
-- name: Public-key cryptography and open standards
+- name: Public-key cryptography and protocols
   percentage: 99
   color: warning
 
-- name: Blockchain discovery frameworks and clients
+- name: Blockchain frameworks and client apps
   percentage: 99
   color: warning

@@ -1,7 +1,7 @@
 ---
 name: UBC Digital Magazine
 tools: [NEM, Bitcoin, Symbol, Blockchain]
-image: https://files.evias.be/ubc-logo.png
+image: https://files.evias.be/ubcdigital-share-logo.png
 description: UBC Digital Magazine produces high-quality free educational content relating to blockchain and
             distributed ledger technology including sample use cases, tutorials, articles, showcases, reviews and outboxing experiences.
 ---

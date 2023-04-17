@@ -1,7 +1,7 @@
 ---
 name: re:Chain Newsletter
 tools: [NEM, Bitcoin, Symbol, Blockchain]
-image: https://files.evias.be/ubc-logo.png
+image: https://files.evias.be/ubcdigital-share-logo.png
 description: Subscribe to our re:Chain Newsletter and get updates for UBC Digital Magazine high-quality
             free educational content relating to blockchain and distributed ledger technology including sample use cases, tutorials, and more.
 ---
