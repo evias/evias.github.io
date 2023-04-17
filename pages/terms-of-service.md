@@ -2,7 +2,7 @@
 layout: page
 title: Terms of Service
 permalink: /terms-of-service/
-weight: 5
+weight: 6
 ---
 
 # **Terms of Service**

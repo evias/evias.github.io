@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 3
+weight: 4
 ---
 
 # **About Me**
@@ -19,11 +19,11 @@ including IRC, to defining chat protocols with Websockets, via defining cryptogr
 standards for key exchanges or ring signatures, to deterministic key derivation
 algorithms. 
 <br /><br />
-I am also the founder of <a href="https://ubc.digital" target="_blank" class="no-underline">UBC Digital</a>,
-a company by pioneers of the Bitcoin and blockchain industry with the aim to
-streamline the integration of distributed ledger technology for mainstream media
-and the business industry. Our team of experts will help your software project
-thrive, adapt and scale to an ever-changing digital era!
+I am also the founder of UBC Digital (https://ubc.digital), a company by pioneers
+of the Bitcoin and blockchain industry with the aim to streamline the integration
+of distributed ledger technology for mainstream media and the business industry.
+Our team of experts will help your software project thrive, adapt and scale to
+an ever-changing digital era [of blockchains]!
 </div>
 
 <div class="row">

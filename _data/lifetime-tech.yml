@@ -1,0 +1,35 @@
+- name: Native software (C++ & Typescript)
+  percentage: 99
+  color: success
+
+- name: Server software (C++ & Typescript & PHP)
+  percentage: 99
+  color: success
+
+- name: Mobile software (React Native)
+  percentage: 99
+  color: success
+
+- name: Blockchain networks (C++ & Typescript & PHP)
+  percentage: 99
+  color: info
+
+- name: Smart contracts and blockchain apps
+  percentage: 99
+  color: info
+
+- name: Token economies using blockchain
+  percentage: 99
+  color: info
+
+- name: Blockchain use cases and applications
+  percentage: 99
+  color: warning
+
+- name: Public-key cryptography and open standards
+  percentage: 99
+  color: warning
+
+- name: Blockchain discovery frameworks and clients
+  percentage: 99
+  color: warning

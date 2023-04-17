@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/
-weight: 4
+weight: 5
 ---
 
 # **Privacy Policy**

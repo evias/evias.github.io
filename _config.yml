@@ -6,11 +6,9 @@ baseurl             : "" # empty quotes for *.github.io
 repository          : evias/evias.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
-
 ### Plugins ###
 plugins:
   - jemoji
-
 
 ### Navbar Settings ###
 nav_exclude:
@@ -19,7 +17,6 @@ nav_exclude:
   - pages/index.md
   - pages/privacy.md
   - pages/terms-of-service.md
-
 
 ### Author Info ###
 author:
@@ -32,10 +29,6 @@ author:
   twitter           : UBC_Digital
   youtube           : channel/UCnyWf1c2Gt8XjwliO-jz6gA
 
-### Posts ###
-permalink: /blog/:title
-
-
 ### Collections ###
 collections:
   projects:
@@ -44,18 +37,11 @@ collections:
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
 
-
-### Disqus ###
-#disqus:
-#  shortname: your-short-name-disqus
-
-
 ### Analytics ###
 analytics:
   enabled: true
   google:
     tracking_id: G-T8RZ5ZCQN9
-
 
 ### Defaults for collections ###
 defaults:

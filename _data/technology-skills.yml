@@ -1,0 +1,35 @@
+- name: Laravel >= v8 & Web software
+  percentage: 99
+  color: success
+
+- name: Node.js & Nest.js & Vue.js
+  percentage: 99
+  color: success
+
+- name: Qt & Boost & CMake & Docker
+  percentage: 99
+  color: success
+
+- name: MySQL & PgSQL & MongoDB & PouchDB
+  percentage: 99
+  color: info
+
+- name: Redis & Memqueue & RabbitMQ
+  percentage: 99
+  color: info
+
+- name: Apache & nginx & Hosting
+  percentage: 99
+  color: info
+
+- name: OpenSSL & Protobuf & End-to-end
+  percentage: 99
+  color: warning
+
+- name: Secure key exchange & Cryptography
+  percentage: 99
+  color: warning
+
+- name: Merkle tree & Graph protocols
+  percentage: 99
+  color: warning
