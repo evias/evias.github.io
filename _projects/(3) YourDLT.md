@@ -6,9 +6,10 @@ description: The Software Suite to connect with existing YourDLT blockchain netw
             Symbol from NEM, dHealth Network and other YourDLT distributed ledger networks. This software is sponsored by UBC Digital.
 ---
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)][license]
 [![npm-badge][npm-badge]][npm-url]
 [![dl-badge][dl-badge]][npm-url]
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Source code](https://img.shields.io/badge/Source%20code-orange.svg)][code-url]
 
 # YourDLT Software Suite
 
@@ -46,3 +47,6 @@ YourDLT Wallet is available for Mac, Windows, and as a web application.
 [npm-url]: https://www.npmjs.com/package/yourdlt-wallet
 [npm-badge]: https://img.shields.io/npm/v/yourdlt-wallet
 [dl-badge]: https://img.shields.io/npm/dt/yourdlt-wallet
+[parent-url]: https://ubc.digital
+[license]: https://opensource.org/licenses/Apache-2.0
+[code-url]: https://github.com/usingblockchain/yourdlt

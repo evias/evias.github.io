@@ -8,6 +8,9 @@ description: Subscribe to our re:Chain Newsletter and get updates for UBC Digita
 
 # re:Chain Newsletter
 
+[![License](https://img.shields.io/badge/License-LGPL%203.0%20only-blue.svg)][license]
+[![Website](https://img.shields.io/badge/Website-green.svg)][parent-url]
+
 Subscribe to our re:Chain Newsletter and get updates for UBC Digital Magazine high-quality free educational content relating to blockchain and distributed ledger technology including sample use cases, tutorials, articles, showcases, reviews and outboxing experiences.
 
 We focus on high-quality and innovative software development skills to produce smart use cases, tutorials and showcases of using blockchain technology. Our articles vary in scope and go from using blockchain for transacting value online, via redefining supply chain processes using a blockchain environment, over to using blockchain to execute cross chain atomic swaps [insert more tech words].
@@ -34,3 +37,6 @@ UBC Digital Magazine is available from *any device with a Browser* (e.g. Firefox
 | BuyMeACoffee | [https://www.buymeacoffee.com/resoftware](https://www.buymeacoffee.com/resoftware) |
 | Bitcoin | `3EVqgUqYFRYbf9RjhyjBgKXcEwAQxhaf6o` |
 | Ethereum ERC20 | `0x634061e116F7a043Cf9cE6BE06bF6Efe90EBf9Ef` |
+
+[parent-url]: https://ubc.digital
+[license]: https://opensource.org/licenses/LGPL-3.0

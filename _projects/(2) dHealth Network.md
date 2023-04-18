@@ -6,9 +6,10 @@ description: dHealth Network provides a multi-tier architecture to enhance the i
             in healthcare and general performance for the blockchain network. Developers can easily build on top of the dHealth ecosystem.
 ---
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)][license]
 [![npm-badge][npm-badge]][npm-url]
 [![dl-badge][dl-badge]][npm-url]
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)][license]
+[![Source code](https://img.shields.io/badge/Source%20code-orange.svg)][code-url]
 
 Cross-platform software for dHealth Public Blockchain Network to manage profiles, assets, registered names, and transact with others on the network.
 
@@ -40,3 +41,4 @@ dHealth Wallet is available for Mac, Windows, and as a web application.
 [npm-url]: https://www.npmjs.com/package/dhealth-wallet
 [npm-badge]: https://img.shields.io/npm/v/dhealth-wallet
 [dl-badge]: https://img.shields.io/npm/dt/dhealth-wallet
+[code-url]: https://github.com/dhealthproject/catapult-client

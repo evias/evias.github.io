@@ -1,36 +1,32 @@
 ---
-name: NEM Cosignatory
-tools: [Blockchain,Node.js,NEM]
+name: Swapable: Uniswap for NEM
+tools: [Blockchain,Uniswap,NEM,Liquidity Pools]
 image: https://files.evias.be/nem-logo.png
-description: A multi-feature bot written in Node.js for the NEM blockchain. It can be deployed to Heroku
-            free tiers or served locally. It features a transaction listener and co-signing multi-signature accounts transactions.
+description: An open standard (+ source code) for peer-to-peer automated
+            liquidity pools on top of Symbol from NEM, NEM, dHealth and any other YourDLT-compatible blockchain networks.
 ---
 
-# NEM Cosignatory
+# Swapable: Uniswap for NEM
 
 [![License](https://img.shields.io/badge/License-LGPL%203.0%20only-blue.svg)][license]
 [![Website](https://img.shields.io/badge/Website-green.svg)][parent-url]
 [![Source code](https://img.shields.io/badge/Source%20code-orange.svg)][code-url]
 
-This is a multi-feature bot written in Node.js for the NEM blockchain. It can
-be deployed to Heroku free tiers or served locally.
+This project contains the source code for swapable, an open standard for
+peer-to-peer automated liquidity pools on top of Symbol from NEM, NEM, dHealth 
+and any other YourDLT-compatible blockchain networks.
 
-The main features of this bot include listening to incoming account transactions
-or account data modifications and co-signing multi-signature accounts transactions.
+This library empowers the creation and operations of automated liquidity pools
+in the same way that Uniswap empowers these pools on Ethereum (or Ethereum-alike)
+networks.
 
 ## Installation
 
-The bot can be configured to execute any of the following features:
-
-- Payment Channel Listening (mode read)
-- Balance Modifications Listening (mode read)
-- Multi Signature Transaction Co-Signing (mode sign)
-- Cosignatory Auditing (mode read) not yet implement
-- Tip Bots (HTTP/JSON API) (mode tip)not yet implement
+The installation is very straight forward with just one command to execute:
 
 ```bash
 cd /path/to/this/clone
-npm install
+npm install -g @ubcdigital/swapable
 ```
 
 ## Sponsor us
@@ -46,4 +42,4 @@ npm install
 
 [parent-url]: https://ubc.digital
 [license]: https://opensource.org/licenses/LGPL-3.0
-[code-url]: https://github.com/evias/nem-nodejs-bot
+[code-url]: https://github.com/usingblockchain/swapable

@@ -10,7 +10,7 @@ description: My company's Github Sponsors profile is live! You can now sponsor m
 
 I am Grégory Saive, Founder and CEO of UBC Digital, previously member of the late *NEM Project Management Committee* focussing on **Symbol from NEM** where I lead the development of Client Software as the Head of Development of the NEM.io Foundation. I later acted as a **Blockchain Lead** for dHealth Network, taking the role of a core developer in the project to revolutionize the healthcare industry with my blockchain skills!
 
-My team at is composed of Bitcoin and blockchain pioneers that focus most of their time on open source projects and open standards. Reach out to us to find out more about our team!
+My team is composed of Bitcoin and blockchain pioneers that focus most of their time on open source projects and open standards. Reach out to us to find out more about our team!
 
 You can sponsor us on the following platforms:
 

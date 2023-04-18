@@ -8,6 +8,9 @@ description: Dings is a free online social app that turns your events and everyd
 
 # Dings: Life is a game. Play it!
 
+[![License](https://img.shields.io/badge/License-LGPL%203.0%20only-blue.svg)][license]
+[![Website](https://img.shields.io/badge/Website-green.svg)][parent-url]
+
 Dings is a free online social app that turns your events and everyday work into a funny game. Just choose a game, or even create one. Then, invite your friends and family to the games that you want to play. Dings will record any type of competition and announce the winner.
 
 ## Installation
@@ -28,3 +31,6 @@ Dings is available from *any device with a Browser* (e.g. Firefox, Google Chrome
 | BuyMeACoffee | [https://www.buymeacoffee.com/resoftware](https://www.buymeacoffee.com/resoftware) |
 | Bitcoin | `3EVqgUqYFRYbf9RjhyjBgKXcEwAQxhaf6o` |
 | Ethereum ERC20 | `0x634061e116F7a043Cf9cE6BE06bF6Efe90EBf9Ef` |
+
+[parent-url]: https://dings.app
+[license]: https://opensource.org/licenses/LGPL-3.0

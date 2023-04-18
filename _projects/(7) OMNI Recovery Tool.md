@@ -8,6 +8,10 @@ description: The evias/omni-recovery-tool Package aims to be an easy to use comm
 
 # OMNI Recovery Tool
 
+[![License](https://img.shields.io/badge/License-LGPL%203.0%20only-blue.svg)][license]
+[![Website](https://img.shields.io/badge/Website-green.svg)][parent-url]
+[![Source code](https://img.shields.io/badge/Source%20code-orange.svg)][code-url]
+
 The evias/omni-recovery-tool Package aims to be an easy to use command line
 interface and API utility Software built around Bitcoin, Colored Coins
 (OMNI / Tether USDT), NEM and dHealth Network blockchain features.
@@ -38,3 +42,7 @@ $ php application script:op-return --asm="OP_RETURN 6f6d6e69000000000000001f0000
 | BuyMeACoffee | [https://www.buymeacoffee.com/resoftware](https://www.buymeacoffee.com/resoftware) |
 | Bitcoin | `3EVqgUqYFRYbf9RjhyjBgKXcEwAQxhaf6o` |
 | Ethereum ERC20 | `0x634061e116F7a043Cf9cE6BE06bF6Efe90EBf9Ef` |
+
+[parent-url]: https://ubc.digital
+[license]: https://opensource.org/licenses/LGPL-3.0
+[code-url]: https://github.com/evias/omni-recovery-tool
