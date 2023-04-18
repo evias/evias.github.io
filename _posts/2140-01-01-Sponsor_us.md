@@ -8,9 +8,9 @@ description: My company's Github Sponsors profile is live! You can now sponsor m
 
 ## Who is who
 
-I am Grégory Saive, Founder and CEO of UBC Digital and member of the late [NEMTech PMC](https://github.com/nemtech/community) focussing on **Symbol from NEM** where I lead the development of Client Software as the Head of Development of the NEM.io Foundation. I was later offered a position of **Blockchain Lead** for dHealth Network, to act as a core developer in the project and revolutionize the healthcare industry with my blockchain skills!
+I am Grégory Saive, Founder and CEO of UBC Digital, previously member of the late *NEM Project Management Committee* focussing on **Symbol from NEM** where I lead the development of Client Software as the Head of Development of the NEM.io Foundation. I later acted as a **Blockchain Lead** for dHealth Network, taking the role of a core developer in the project to revolutionize the healthcare industry with my blockchain skills!
 
-The team at Using Blockchain Ltd is composed of Bitcoin and blockchain pioneers that focus most of their time on open source projects and open standards. Reach out to us to find out more about our team!
+My team at is composed of Bitcoin and blockchain pioneers that focus most of their time on open source projects and open standards. Reach out to us to find out more about our team!
 
 You can sponsor us on the following platforms:
 
@@ -19,6 +19,9 @@ You can sponsor us on the following platforms:
 | Paypal | [https://paypal.me/usingblockchainltd](https://paypal.me/usingblockchainltd) |
 | Patreon | [https://patreon.com/usingblockchainltd](https://patreon.com/usingblockchainltd) |
 | Github | [https://github.com/sponsors/UsingBlockchain](https://github.com/sponsors/UsingBlockchain) |
+| BuyMeACoffee | [https://www.buymeacoffee.com/resoftware](https://www.buymeacoffee.com/resoftware) |
+| Bitcoin | `3EVqgUqYFRYbf9RjhyjBgKXcEwAQxhaf6o` |
+| Ethereum ERC20 | `0x634061e116F7a043Cf9cE6BE06bF6Efe90EBf9Ef` |
 
 ## Our work
 
@@ -44,7 +47,7 @@ You can also book our services directly:
 
 At Using Blockchain Ltd, we publish a lot of resources in the public domain. This is because **we believe in an open access to knowledge and information and in open and friendly collaborations**.
 
-By sponsoring us, you will make sure to keep informed about our contributions in the blockchain industry and about our latest authoring activities. You will also get private access to drafts of our latest authoring activities!
+By sponsoring us, you will make sure to keep informed about our contributions in the blockchain industry and about our latest authoring activities. You will also get private access to drafts of our latest authoring activities and development plans.
 
 We aim to architect solutions that are worthy of the digital era and would love you to support us in doing so!!!
 
@@ -52,8 +55,8 @@ We aim to architect solutions that are worthy of the digital era and would love 
 
 All sponsors from the $5/month level and up will get access to monthly exclusive content, which you can digitally download and view as I post. At least once per month, you will receive one of the following:
 
-- A draft chapter of one of our forthcoming distributed ledger case articles;
-- A draft chapter of one of our forthcoming printed articles;
-- A draft version of a new research document, or a trunked research I'm actively revising;x
+- A draft chapter of one of our forthcoming blockchain use cases; or
+- A draft chapter of one of our forthcoming printed articles; or
+- A draft version of a new research document, or a trunked research I'm actively revising; or
 - One or more draft chapter(s) of one of our forthcoming open standards; or
 - A draft implementation or showcase of one of our forthcoming blockchain integrations.
