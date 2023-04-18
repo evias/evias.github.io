@@ -1,23 +1,24 @@
 ---
-name: ChainTs: Simply Blockchain
-tools: [Simplistic,Blockchain,Typescript]
-image: https://files.evias.be/yourdlt-logo.png
-description: An open standard (+ source code) for managing distributed organizations
-            on top of Symbol from NEM, NEM, dHealth and any other YourDLT-compatible blockchain networks.
+name: Swapable Liquidity Pools
+tools: [Blockchain,Uniswap,NEM,Liquidity Pools]
+image: https://files.evias.be/nem-logo.png
+description: An open standard (+ source code) for peer-to-peer automated
+            liquidity pools on top of Symbol from NEM, NEM, dHealth and any other YourDLT-compatible blockchain networks.
 ---
 
-# ChainTs: Simply Blockchain
+# Swapable: Uniswap for NEM
 
 [![License](https://img.shields.io/badge/License-LGPL%203.0%20only-blue.svg)][license]
 [![Website](https://img.shields.io/badge/Website-green.svg)][parent-url]
 [![Source code](https://img.shields.io/badge/Source%20code-orange.svg)][code-url]
 
-This project contains the source code for a **simplistic blockchain network** as
-showcased in [UBC Digital Magazine][parent-url].
+This project contains the source code for swapable, an open standard for
+peer-to-peer automated liquidity pools on top of Symbol from NEM, NEM, dHealth 
+and any other YourDLT-compatible blockchain networks.
 
-This library can be used to *teach* topics including: **algorithmic mining**,
-**blockchain integrity verification**, **mining difficulty** and more generally
-some concepts of **public-key cryptography** with signature verifications.
+This library empowers the creation and operations of automated liquidity pools
+in the same way that Uniswap empowers these pools on Ethereum (or Ethereum-alike)
+networks.
 
 ## Installation
 
@@ -25,10 +26,8 @@ The installation is very straight forward with just one command to execute:
 
 ```bash
 cd /path/to/this/clone
-npm install -g @ubcdigital/chaints
+npm install -g @ubcdigital/swapable
 ```
-
-A list of example use cases is available at [Github][code-url].
 
 ## Sponsor us
 
@@ -43,4 +42,4 @@ A list of example use cases is available at [Github][code-url].
 
 [parent-url]: https://ubc.digital
 [license]: https://opensource.org/licenses/LGPL-3.0
-[code-url]: https://github.com/usingblockchain/chaints
+[code-url]: https://github.com/usingblockchain/swapable

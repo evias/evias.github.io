@@ -1,5 +1,5 @@
 ---
-name: DiMi: Modular Identity
+name: DiMi Modular Identities
 tools: [Blockchain,DID,Healthcare,Patient Identity]
 image: https://files.evias.be/dhealth-logo.png
 description: This software provides patients with a digital identity and wallet that aims to make it
