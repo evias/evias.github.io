@@ -14,22 +14,46 @@ weight: 1
   <a href='https://calendly.com/ubcdigital/hire-me' target="_blank">
     <img alt='Jump on a call' src='https://img.shields.io/badge/Jump_on a call-100000?style=for-the-badge&logo=Jump on a call&logoColor=white&labelColor=00C781&color=00C781'/>
   </a>
+  <a href='https://github.com/evias' target="_blank">
+    <img alt='View my Github' src='https://img.shields.io/badge/View_my Github-100000?style=for-the-badge&logo=View my Github&logoColor=white&labelColor=F1C40F&color=F1C40F'/>
+  </a>
 </div>
 
 <div class="row">
 I am Grégory Saive, born and raised in Belgium, living in Spain; Software artisan;
 I stepped into software at the age of 12, driven mostly by the hobby of my father.
-
-If you find yourself reading this, it is probable that you are willing to find
-out more about my professional aptitudes and professional experience. My passion
-for software has been driving me for about 23 years now and I have designed-,
-worked with-, authored-, developed- and maintained many different software projects
-that I have the [rather good] habit of sharing with others using open-source
-licenses.
+I have previously acted as the Head of Development for NEM (2017->2020) and as the
+Blockchain Lead and aspiring CTO for dHealth Network from 2020-onwards. With over
+15 years of professional experience, I have gathered knowledge around many different
+technologies including: blockchain networks, cryptocurrencies, smart contracts and
+token economies.
 <br /><br />
-I worked with many different technology stacks during my career: that includes
-using basic communication protocols like IRC; also, defining chat protocols
-with Websockets; or defining cryptographic standards for key and data exchange.
+Working in the blockchain industry for over 8 years allowed me to grow my expertise
+in the fields of: infrastructure with cloud and micro-services, software architecture,
+peer-to-peer network protocols, standards and protocol definition.
+<br /><br />
+I am the author of many different open-source software packages that are used to
+deploy, monitor and manage tokens using the above named blockchain networks ;
+and I have authored technology standards for:
+<br /><br />
+- Deployment of next-generation blockchain networks (dual blockchain migration) ;<br />
+- Distributed and modular patient identity using BIP32 algorithm and key derivation ;<br />
+- Distributed rewarding mechanism for e-fitness platforms including Strava ;<br />
+- Wallet-, Explorer-, Monitoring software and software development kits for blockchain networks.
+<br /><br />
+My technologies knowledge / tags include, but are not limited to:
+<br /><br />
+- Languages: C++, PHP, Typescript, Javascript, Python<br />
+- Databases: Mongo, MySQL, PostgreSQL, Firebase<br />
+- Containerize: Docker, Kubernetes, AWS<br />
+- Frameworks: Vue, Nest, Node, Qt, Laravel, React Native<br />
+- Additional technologies: DID, websockets, push notifications, PWA, SSO, SSR, TSL,
+SSL, HTTP(2), blockchain, tokens, peer-to-peer, end-to-end encryption, public-key
+cryptography, key derivation, secure key exchange protocols, token economies, queues,
+web standards, e-mailing servers, firewalls, scaling solutions.
+<br /><br />
+My github account is available here: https://github.com/evias<br />
+My full biography is available here: https://evi.as/hire-me
 </div>
 
 <h2>Professional experience</h2>
