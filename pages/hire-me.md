@@ -5,8 +5,6 @@ permalink: /hire-me/
 weight: 1
 ---
 
-# **Hire me**
-
 <!-- Fine Circle Responsive Image -->
 <div id="container" class="my-2">
   <img src="{{ site.author.image }}"
