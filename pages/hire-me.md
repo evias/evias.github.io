@@ -47,11 +47,14 @@ continuing to grow my technology skills. My latest research includes:
 ✅ Distributed and modular patient identity using BIP32 algorithm and key derivation ;<br />
 ✅ Distributed rewarding mechanism for e-fitness platforms including Strava ;<br />
 ✅ Wallet-, Explorer-, Monitoring software and software development kits for blockchain networks;<br />
-✅ Deployment of smart contracts and smart contract audit.
-✅ Generative AI software (NLG) for kids using our software (SaaS) in schools ;
-✅ Expert SaaS software developer with over 15 years of experience in the industry.
+✅ Deployment of smart contracts and smart contract audit.<br />
+✅ Generative AI software (NLG) for kids using our software (SaaS) in schools ;<br />
+✅ Expert SaaS software developer with over 15 years of experience in the industry.<br />
 <br /><br />
-👥 I think that I stand out from the crowd through my leadership skills, my enthusiasm for emerging technologies and my 17-years long professional experience as a software engineer which led me through using many different technologies in the past. Feel free to have a look at my biography over at: evi.as/hire-me
+👥 I think that I stand out from the crowd through my leadership skills, my enthusiasm
+for emerging technologies and my 17-years long professional experience as a software
+engineer which led me through using many different technologies in the past. Feel free
+to have a look at my biography over at: evi.as/hire-me
 <br /><br />
 🛡 MATCH MY SKILLS
 <br /><br />
@@ -67,7 +70,7 @@ mnemonic passphrases, ed25519, secp256k1, random number generators, qr codes, da
 migrations. 
 <br /><br />
 🧐 Github: https://github.com/evias<br />
-🧐 Biography: https://evi.as/hire-me
+🧐 Biography: https://evi.as/hire-me 
 </div>
 
 <h2>Professional experience</h2>
@@ -84,12 +87,8 @@ migrations.
 </div>
 
 <h2>Publications</h2>
-<div class="row">
 {% include blog/search.html %}
 {% include blog/index.html %}
-</div>
 
 <h2>Portfolio</h2>
-<div class="row">
 {% include projects/index.html %}
-</div>
