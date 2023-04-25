@@ -9,10 +9,11 @@ weight: 1
 
 <!-- Fine Circle Responsive Image -->
 <div id="container" class="my-2">
-  <div id="dummy"></div>
-  <div id="element">
-    <img src="{{ site.author.image }}" alt="{{ site.title }}" class="circle-image wow animated zoomIn" data-wow-delay=".1s">
-  </div>
+  <img src="{{ site.author.image }}"
+        alt="{{ site.title }}"
+        class="circle-image wow animated zoomIn"
+        data-wow-delay=".1s"
+        style="width: 150px;">
 </div>
 
 <div style="text-align: center;">
