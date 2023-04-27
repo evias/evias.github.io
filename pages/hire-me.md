@@ -29,7 +29,7 @@ weight: 1
   </a>
 </div>
 
-<div class="row">
+<div class="row text-justify">
 <br /><br />
 ✅ SENIOR SOFTWARE DEVELOPER | Solutions Architect | SaaS Expert ✅
 <br /><br />
@@ -69,10 +69,15 @@ migrations.
 <br /><br />
 🧐 Github: https://github.com/evias<br />
 🧐 Biography: https://evi.as/hire-me 
+<br /><br />
+Disclaimer: I am also the founder of UBC Digital (https://ubc.digital), a company by pioneers
+of the Bitcoin and blockchain industry with the aim to streamline the integration of distributed
+ledger technology for mainstream media and the business industry. Our team of experts will help
+your software project thrive, adapt and scale to an ever-changing digital era [of blockchains]!
 </div>
 
 <h2>Professional experience</h2>
-<div class="row">
+<div class="row text-justify">
 {% include about/timeline.html %}
 </div>
 
@@ -80,6 +85,17 @@ migrations.
 <div class="row">
 {% include about/skills.html title="A lifetime of tech" source=site.data.lifetime-tech %}
 {% include about/skills.html title="Technologies I use" source=site.data.technology-skills %}
+</div>
+
+<div class="row">
+{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Frameworks I use" source=site.data.frameworks-skills %}
+</div>
+
+<div class="row">
+{% include about/skills.html title="Authoring Skills" source=site.data.authoring-skills %}
+{% include about/skills.html title="Languages I speak" source=site.data.languages-skills %}
+</div>
 
 <b>Found a match in the above? Make sure to contact me per e-mail: <u>greg[at]evi[dot]as</u>.</b>
 </div>

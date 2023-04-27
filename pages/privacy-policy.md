@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy/
+permalink: /privacy-policy/
 weight: 5
 ---
 

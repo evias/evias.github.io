@@ -2,62 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://evias.be/</loc>
-    <lastmod>2021-03-15T17:08:55-03:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/hire-me</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/sponsor-me</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/projects</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/projects/1-ubc-digital-magazine</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/projects/2-dhealth-network</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/projects/3-yourdlt</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/projects/4-re-chain-newsletter</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/projects/5-dhealth-signer</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/projects/6-dings</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
-    <loc>https://evias.be/projects/7-dapps-framework</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <loc>https://evias.be/projects/7-omni-recovery-tool</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
-    <loc>https://evias.be/research</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <loc>https://evias.be/projects/8-dapps-framework</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
-    <loc>https://evias.be/research/sponsor-us</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <loc>https://evias.be/projects/9-nem-cosignatory</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
-    <loc>https://evias.be/research/tags</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <loc>https://evias.be/projects/10-swapable-liquidity-pools</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
-    <loc>https://evias.be/about</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <loc>https://evias.be/projects/11-dhealth-health2earn</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
-    <loc>https://evias.be/privacy</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <loc>https://evias.be/projects/12-governable-daos-framework</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/projects/13-dimi-modular-identities</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/projects/14-chaints-simply-blockchain</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/projects/15-dhealth-erc20-bridge</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/blog</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/blog/tags</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://evias.be/privacy-policy</loc>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
   <url>
     <loc>https://evias.be/terms-of-service</loc>
-    <lastmod>2023-03-23T15:00:00+02:00</lastmod>
+    <lastmod>2023-04-27T10:06:55-03:00</lastmod>
   </url>
 </urlset>
