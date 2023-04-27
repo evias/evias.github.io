@@ -7,6 +7,7 @@ weight: 2
 
 ## Who is who
 
+<div class="row text-justify">
 👋 I am Grégory Saive, and I live in Spain; I am a software artisan whom stepped into
 software in 2002. I have a great deal of professional experience to offer with regards
 to software development and for every step of the lifecycle of your software project!
@@ -22,22 +23,25 @@ continuing to grow my technology skills. My latest research includes:
 ✅ Deployment of smart contracts and smart contract audit.<br />
 ✅ Generative AI software (NLG) for kids using our software (SaaS) in schools ;<br />
 ✅ Expert SaaS software developer with over 15 years of experience in the industry.<br />
+</div>
 
 ## Why would you sponsor me?
 
+<div class="row text-justify">
 Most of my work is published (released) in the public domain using open-source software
 licenses such as: Apache-2.0, MIT, LGPL-3.0 and BSD-3.0. In fact, most of my work is
 made public even before it can be used commercially! You will help me run my operations.
-
+<br /><br />
 My team is composed of Bitcoin and blockchain pioneers that focus most of their time on
 open source projects and open standards, we do this because we believe that open source
 is a beautiful way to collaborate. Reach out to us to find out more about our team!
-
+<br /><br />
 By sponsoring us, you will make sure to keep informed about our contributions in the blockchain
 industry and about our latest authoring activities. You will also get private access to drafts
 of our latest authoring activities and development plans.
-
+<br /><br />
 You can sponsor us using these platforms:
+</div>
 
 | Platform | Sponsor Link |
 | --- | --- |
@@ -50,32 +54,39 @@ You can sponsor us using these platforms:
 
 ## Our work
 
-As a team at Using Blockchain Ltd, we have contributed to the many open standard definitions published by @eVias over the past years, including but not limited to [NIP-13](https://github.com/evias/NIP/blob/master/NIPs/nip-0013.md) for defining Security Tokens and NFTs with Symbol from NEM, [NIP-6](https://github.com/evias/NIP/blob/master/NIPs/nip-0006.md) for using Hierarchical Deterministic Wallets with Symbol from NEM and [NIP-16](https://github.com/evias/NIP/blob/nip-components/NIPs/nip-0016.md) which focusses on providing a smooth Components experience when working with Symbol from NEM.
-
+<div class="text-justify">
+As a team at Using Blockchain Ltd, we have contributed to the many open standard definitions published by @eVias over the past years, including but not limited to <a href="https://github.com/evias/NIP/blob/master/NIPs/nip-0013.md" target="_blank">NIP13</a> for defining Security Tokens and NFTs with Symbol from NEM, <a href="https://github.com/evias/NIP/blob/master/NIPs/nip-0006.md" target="_blank">NIP6</a> for using Hierarchical Deterministic Wallets with Symbol from NEM and <a href="https://github.com/evias/NIP/blob/nip-components/NIPs/nip-0016.md" target="_blank">NIP16</a> which focusses on providing a smooth Components experience when working with Symbol from NEM and compatible networks like dHealth Network.
+<br /><br />
 Note that the above open standards have all been *used* in production with dHealth Network from 2021 to 2023. We put our focus on qualitative and innovative development skills and our headline is that **open source is a beautiful way to collaborate**. Many of our software packages are available at Github. That is because we believe in an open access to innovation.
-
+<br /><br />
 Our latest products include:
-
-- [My projects](/projects/)
-- [My publications](/blog/)
-- [UBC Digital Magazine](https://ubc.digital)
-- [Dings: Life is a game!](https://dings.app)
-- [YourDLT](https://yourdlt.tools)
-- [dHealth Network](https://dhealth.com)
-- [Symbol from NEM](https://www.amazon.es/gp/product/B096KYV2FJ)
-- [re:Chain Newsletter](https://ubc.digital/subscribe/)
-
+<br /><br />
+✅ <a href="/projects/">My projects</a><br />
+✅ <a href="/blog/">My publications</a><br />
+✅ <a href="https://ubc.digital" target="_blank">UBC Digital Magazine</a><br />
+✅ <a href="https://dings.app" target="_blank">Dings: Life is a game!</a><br />
+✅ <a href="https://yourdlt.tools" target="_blank">YourDLT</a><br />
+✅ <a href="https://dhealth.com" target="_blank">dHealth Network</a><br />
+✅ <a href="https://dhealth.com" target="_blank">dHealth ERC20 Bridge</a><br />
+✅ <a href="https://dhealth.com" target="_blank">dHealth Health2Earn</a><br />
+✅ <a href="https://www.amazon.es/gp/product/B096KYV2FJ" target="_blank">Symbol from NEM</a><br />
+✅ <a href="https://ubc.digital/subscribe/" target="_blank">re:Chain Newsletter</a><br />
+<br /><br />
 You can also book my services directly:
-
-- [Blockchain consultation](https://ubc.digital/product/blockchain-consultation/)
-- [Blockchain lessons](https://ubc.digital/product/blockchain-lessons/)
+<br /><br />
+🧐 <a href="https://ubc.digital/product/blockchain-consultation/" target="_blank">Blockchain consultation</a><br />
+🧐 <a href="https://ubc.digital/product/blockchain-lessons/" target="_blank">Blockchain lessons</a><br />
+🧐 <a href="https://ubc.digital/subscribe/" target="_blank">Subscribe to my newsletter</a>
+</div>
 
 ## What will YOU get ?
 
+<div class="row text-justify">
 All sponsors from the $5/month level and up will get access to monthly exclusive content, which you can digitally download and view as I post. At least once per month, you will receive one of the following:
-
-- A draft chapter of one of our forthcoming blockchain use cases; or
-- A draft chapter of one of our forthcoming printed articles; or
-- A draft version of a new research document, or a trunked research I'm actively revising; or
-- One or more draft chapter(s) of one of our forthcoming open standards; or
+<br /><br />
+- A draft chapter of one of our forthcoming blockchain use cases; or<br />
+- A draft chapter of one of our forthcoming printed articles; or<br />
+- A draft version of a new research document, or a trunked research I'm actively revising; or<br />
+- One or more draft chapter(s) of one of our forthcoming open standards; or<br />
 - A draft implementation or showcase of one of our forthcoming blockchain integrations.
+</div>
