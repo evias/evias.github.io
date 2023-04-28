@@ -59,19 +59,31 @@ As a team at Using Blockchain Ltd, we have contributed to the many open standard
 <br /><br />
 Note that the above open standards have all been *used* in production with dHealth Network from 2021 to 2023. We put our focus on qualitative and innovative development skills and our headline is that **open source is a beautiful way to collaborate**. Many of our software packages are available at Github. That is because we believe in an open access to innovation.
 <br /><br />
-Our latest products include:
-<br /><br />
-✅ <a href="/projects/">My projects</a><br />
-✅ <a href="/blog/">My publications</a><br />
-✅ <a href="https://ubc.digital" target="_blank">UBC Digital Magazine</a><br />
-✅ <a href="https://dings.app" target="_blank">Dings: Life is a game!</a><br />
-✅ <a href="https://yourdlt.tools" target="_blank">YourDLT</a><br />
-✅ <a href="https://dhealth.com" target="_blank">dHealth Network</a><br />
-✅ <a href="https://dhealth.com" target="_blank">dHealth ERC20 Bridge</a><br />
-✅ <a href="https://dhealth.com" target="_blank">dHealth Health2Earn</a><br />
-✅ <a href="https://www.amazon.es/gp/product/B096KYV2FJ" target="_blank">Symbol from NEM</a><br />
-✅ <a href="https://ubc.digital/subscribe/" target="_blank">re:Chain Newsletter</a><br />
-<br /><br />
+Our latest products and editorial works include:
+</div>
+
+| Client | Product + Link | Excerpt |
+| --- | --- | --- |
+| UBC Digital | [**re:Chain Newsletter**](https://ubc.digital/subscribe/) | Our blockchain ideas dump and newsletter for passionate insights in the blockchain industry. (2023-present) |
+| UBC Digital | [**UBC Digital Magazine**](https://ubc.digital) | Our very own media outlet where you'll find informative blockchain content. (2021-present) |
+| Dings | [**Dings: Life is a game!**](https://dings.app) | Dings is a social platform that turns your daily routine into a constant game! (2021-present) |
+| UBC Digital | [**YourDLT**](https://yourdlt.tools) | YourDLT is a software suite to facilitate the deployment of blockchain networks. (2021-present) |
+| UBC Digital | [**The return of the Ninjas (eBook)**](https://ubc.digital/symbol-from-nem-the-return-of-the-ninjas/) | An e-book describing the lifecycle of next-generation blockchain networks. (2021) |
+| UBC Digital | [**BlockSnippets**](https://github.com/UsingBlockchain/BlockSnippets) | A snippets library (for developers) with useful blockchain integration examples. (2021) |
+| UBC Digital | [**ChainTs**](https://github.com/UsingBlockchain/ChainTs) | A simplistic blockchain (and P2P network) showcase for developers starting with blockchain. (2021) |
+| UBC Digital | [**Swapable**](https://github.com/UsingBlockchain/swapable) | A Typescript library that maps the UniSwap feature set to YourDLT compatible blockchain networks. (2021) |
+| UBC Digital | [**Governable**](https://github.com/UsingBlockchain/governable) | A Typescript framework to create DAOs using YourDLT compatible blockchain networks. (2021) |
+| dHealth Foundation | [**dHealth Network**](https://dhealth.com) | A public blockchain infrastructure for Healthcare. Open source blockchain network. (2021-2023) |
+| dHealth Foundation | [**dHealth Wallet**](https://dhealth.com/downloads) | A desktop wallet (native) to connect to YourDLT-compatible networks including dHealth Network. (2021-2023) |
+| dHealth Foundation | [**dHealth Explorer**](https://explorer.dhealth.com) | A blockchain explorer (web-app) to monitor and read YourDLT-compatible networks including dHealth Network. (2021-2023) |
+| dHealth Foundation | [**dHealth ERC20 Bridge**](https://dhealth.com) | An open-source dHealth Wallet plugin to perform cross-network swaps with Ethereum ERC20 tokens. (2022) |
+| dHealth Foundation | [**dHealth Health2Earn**](https://health2earn.com) | An open-source blockchain dapp powered by Strava with a distributed rewarding mechanism for e-fitness activities. (2022) |
+| NEM Foundation | [**Symbol HD Wallets**](https://github.com/evias/symbol-hd-wallets) | A Typescript library to create hierarchical deterministic wallets with Symbol from NEM. (2019) |
+| NEM Foundation | [**Symbol QR Library**](https://github.com/evias/symbol-qr-library) | A Typescript library to create QR-Codes for smart contracts with Symbol from NEM. (2019) |
+| NEM Foundation | [**Symbol QR Library**](https://github.com/evias/symbol-qr-library) | A Typescript library to create QR-Codes for smart contracts with Symbol from NEM. (2019) |
+| NEM Foundation | [**Dual blockchain migration**](https://github.com/evias/catapult-server/tree/migration) | A C++ fork of Catapult to enable dual-blockchain network initialization. (2020) |
+
+<div class="text-justify">
 You can also book my services directly:
 <br /><br />
 🧐 <a href="https://ubc.digital/product/blockchain-consultation/" target="_blank">Blockchain consultation</a><br />
