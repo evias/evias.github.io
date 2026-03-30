@@ -13,16 +13,22 @@ software in 2002. I have a great deal of professional experience to offer with r
 to software development and for every step of the lifecycle of your software project!
 <br /><br />
 🧐 I have previously acted as a Head of Development for NEM Foundation, as a Blockchain
-Lead in Web3 for dHealth Foundation and as a CTO for UBC Digital Magazine. All the while,
-continuing to grow my technology skills. My latest research includes: 
+Lead in Web3 for dHealth Foundation and as a CTO for UBC Digital Magazine. I have also
+worked closely with teams building on top of Solana, TON, Cosmos and more technically
+with integrations of custom consensus protocols based on CometBFT / Tendermint.
+All the while, of course, continuing to grow my technology skills. My latest research includes: 
 <br /><br />
+✅ Development of a Framework for Parallel Runtime of Tendermint Consensus (cometbft) ;<br />
+✅ Deployment of COSMOS/Solana/TON/Ethereum blockchain networks (historical data migrations) ;<br />
 ✅ Deployment of next-generation blockchain networks (dual blockchain migrations) ;<br />
 ✅ Distributed and modular patient identity using BIP32 algorithm and key derivation ;<br />
-✅ Distributed rewarding mechanism for e-fitness platforms including Strava ;<br />
+✅ Verifiable end-to-end encrypted (E2EE) messaging and identity using key derivations ;<br />
+✅ Distributed rewarding mechanism for e-fitness platforms including Strava (health2earn);<br />
 ✅ Wallet-, Explorer-, Monitoring software and software development kits for blockchain networks;<br />
-✅ Deployment of smart contracts and smart contract audit.<br />
-✅ Generative AI software (NLG) for kids using our software (SaaS) in schools ;<br />
-✅ Expert SaaS software developer with over 15 years of experience in the industry.<br />
+✅ Generative AI software (NLG) for kids using our software (SaaS) in [schools][url-edukiddies] ;<br />
+✅ Expert [SaaS software developer][url-portfolio] with over 21 years of experience in the industry;<br />
+✅ Published Author in the [iX Magazine by Heise][url-partner-ix] with ["In Signo Veritas"][url-ix-article];<br />
+✅ Published Tutor for [ECCouncil Learning][url-partner-ecc] with [Hands-On Cryptography with C++][url-ecc-course];<br />
 </div>
 
 ## Why would you sponsor me?
@@ -64,6 +70,7 @@ Our latest products and editorial works include:
 
 | Client | Product + Link | Excerpt |
 | --- | --- | --- |
+| re:Software S.L. | [**re:Software**](https://resoftware.es/) | Our software development presence in Spain! And, of course, we also speak Spanish! (2023-present) |
 | UBC Digital | [**re:Chain Newsletter**](https://ubc.digital/subscribe/) | Our blockchain ideas dump and newsletter for passionate insights in the blockchain industry. (2023-present) |
 | UBC Digital | [**UBC Digital Magazine**](https://ubc.digital) | Our very own media outlet where you'll find informative blockchain content. (2021-present) |
 | Dings | [**Dings: Life is a game!**](https://dings.app) | Dings is a social platform that turns your daily routine into a constant game! (2021-present) |
@@ -82,23 +89,3 @@ Our latest products and editorial works include:
 | NEM Foundation | [**Symbol QR Library**](https://github.com/evias/symbol-qr-library) | A Typescript library to create QR-Codes for smart contracts with Symbol from NEM. (2019) |
 | NEM Foundation | [**Symbol QR Library**](https://github.com/evias/symbol-qr-library) | A Typescript library to create QR-Codes for smart contracts with Symbol from NEM. (2019) |
 | NEM Foundation | [**Dual blockchain migration**](https://github.com/evias/catapult-server/tree/migration) | A C++ fork of Catapult to enable dual-blockchain network initialization. (2020) |
-
-<div class="text-justify">
-You can also book my services directly:
-<br /><br />
-🧐 <a href="https://ubc.digital/product/blockchain-consultation/" target="_blank">Blockchain consultation</a><br />
-🧐 <a href="https://ubc.digital/product/blockchain-lessons/" target="_blank">Blockchain lessons</a><br />
-🧐 <a href="https://ubc.digital/subscribe/" target="_blank">Subscribe to my newsletter</a>
-</div>
-
-## What will YOU get ?
-
-<div class="row text-justify">
-All sponsors from the $5/month level and up will get access to monthly exclusive content, which you can digitally download and view as I post. At least once per month, you will receive one of the following:
-<br /><br />
-- A draft chapter of one of our forthcoming blockchain use cases; or<br />
-- A draft chapter of one of our forthcoming printed articles; or<br />
-- A draft version of a new research document, or a trunked research I'm actively revising; or<br />
-- One or more draft chapter(s) of one of our forthcoming open standards; or<br />
-- A draft implementation or showcase of one of our forthcoming blockchain integrations.
-</div>

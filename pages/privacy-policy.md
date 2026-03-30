@@ -12,7 +12,7 @@ weight: 5
 
 <p>This Privacy Policy applies to the processing of personal information by Grégory Saive of:</p>
 <ul class="obullets">
-<li>visitors and users of the various Grégory Saive sites, including our websites on <a href="https://ubc.digital">ubc.digital</a>, <a href="https://dings.app">dings.app</a>, <a href="https://evias.be">evi.as</a>, <a href="https://evi.as">evi.as</a> computer or mobile software applications and our social media pages that link to this Privacy Policy (collectively referred to as the "<strong>Software products</strong>");</li>
+<li>visitors and users of the various Grégory Saive sites, including our websites on <a href="https://ubc.digital">ubc.digital</a>, <a href="https://dings.app">dings.app</a>, <a href="https://evias.be">evi.as</a>, <a href="https://evi.as">evi.as</a>, <a href="https://resoftware.es">resoftware.es</a>, computer or mobile software applications and our social media pages that link to this Privacy Policy (collectively referred to as the "<strong>Software products</strong>");</li>
 <li>attendees of Grégory Saive-sponsored events;</li>
 <li>customers and prospective customers and their representatives;</li>
 <li>subscribers to UBC Digital Magazine; and</li>

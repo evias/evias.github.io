@@ -41,23 +41,27 @@ to software development and for every step of the lifecycle of your software pro
 Lead in Web3 for dHealth Foundation and as a CTO for UBC Digital Magazine. All the while,
 continuing to grow my technology skills. My latest research includes: 
 <br /><br />
+✅ Development of a Framework for Parallel Runtime of Tendermint Consensus (cometbft) ;<br />
+✅ Deployment of COSMOS/Solana/TON/Ethereum blockchain networks (historical data migrations) ;<br />
 ✅ Deployment of next-generation blockchain networks (dual blockchain migrations) ;<br />
 ✅ Distributed and modular patient identity using BIP32 algorithm and key derivation ;<br />
-✅ Distributed rewarding mechanism for e-fitness platforms including Strava ;<br />
+✅ Verifiable end-to-end encrypted (E2EE) messaging and identity using key derivations ;<br />
+✅ Distributed rewarding mechanism for e-fitness platforms including Strava (health2earn);<br />
 ✅ Wallet-, Explorer-, Monitoring software and software development kits for blockchain networks;<br />
-✅ Deployment of smart contracts and smart contract audit.<br />
-✅ Generative AI software (NLG) for kids using our software (SaaS) in schools ;<br />
-✅ Expert SaaS software developer with over 15 years of experience in the industry.<br />
+✅ Generative AI software (NLG) for kids using our software (SaaS) in [schools][url-edukiddies] ;<br />
+✅ Expert [SaaS software developer][url-portfolio] with over 21 years of experience in the industry;<br />
+✅ Published Author in the [iX Magazine by Heise][url-partner-ix] with ["In Signo Veritas"][url-ix-article];<br />
+✅ Published Tutor for [ECCouncil Learning][url-partner-ecc] with [Hands-On Cryptography with C++][url-ecc-course];<br />
 <br /><br />
 👥 I think that I stand out from the crowd through my leadership skills, my enthusiasm
-for emerging technologies and my 17-years long professional experience as a software
+for emerging technologies and my 21-years long professional experience as a software
 engineer which led me through using many different technologies in the past. Feel free
 to have a look at my biography over at: evi.as/hire-me
 <br /><br />
 🛡 MATCH MY SKILLS
 <br /><br />
-🛡 Languages: C++, PHP, Typescript, Javascript, Python<br />
-🛡 Databases: Mongo, MySQL, PostgreSQL, Firebase<br />
+🛡 Languages: C++, PHP, Typescript, Javascript, Python, Golang<br />
+🛡 Databases: Mongo, MySQL, PostgreSQL, Firebase, LevelDB<br />
 🛡 Containerize: Docker, Kubernetes, AWS<br />
 🛡 Frameworks: Vue, Nest, Node, Qt, Laravel, React Native<br />
 🛡 Additional technologies: DID, websockets, push notifications, PWA, SSO, SSR, TSL,
@@ -65,15 +69,16 @@ SSL, HTTP(2), blockchain, tokens, peer-to-peer, end-to-end encryption, public-ke
 cryptography, key derivation, secure key exchange protocols, token economies, queues,
 web standards, e-mailing servers, firewalls, scaling solutions, key derivation scheme,
 mnemonic passphrases, ed25519, secp256k1, random number generators, qr codes, database
-migrations. 
+migrations, parallel computing, nostr protocol, post-quantum cryptography.
 <br /><br />
 🧐 Github: https://github.com/evias<br />
 🧐 Biography: https://evi.as/hire-me 
 <br /><br />
-Disclaimer: I am also the founder of UBC Digital (https://ubc.digital), a company by pioneers
-of the Bitcoin and blockchain industry with the aim to streamline the integration of distributed
-ledger technology for mainstream media and the business industry. Our team of experts will help
-your software project thrive, adapt and scale to an ever-changing digital era [of blockchains]!
+Disclaimer: I am also the founder of UBC Digital (https://ubc.digital), and re:Software S.L.
+(https://resoftware.es), companies by pioneers of the Bitcoin and blockchain industry with
+the aim to streamline the integration of Bitcoin and other distributed ledger technology for
+mainstream media and the entreprise sector. Our team of experts will help your software
+or blockchain project thrive, adapt and scale to an ever-changing digital era [of blockchains]!
 </div>
 
 <h2>Professional experience</h2>
@@ -106,3 +111,10 @@ your software project thrive, adapt and scale to an ever-changing digital era [o
 
 <h2>Portfolio</h2>
 {% include projects/index.html %}
+
+[url-edukiddies]: https://edukiddies.dings.app
+[url-portfolio]: https://resoftware.es/portfolio
+[url-partner-ix]: https://www.heise.de/ix
+[url-partner-ecc]: https://www.eccouncil.org
+[url-ix-article]: https://www.heise.de/select/ix/2018/7/1531029675514769
+[url-ecc-course]: https://learn.eccouncil.org/course/hands-on-cryptography-with-c

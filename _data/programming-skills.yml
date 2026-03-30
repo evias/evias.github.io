@@ -17,3 +17,7 @@
 - name: Python 
   percentage: 85
   color: warning
+
+- name: Golang 
+  percentage: 95
+  color: warning

@@ -12,8 +12,12 @@
 
 - name: Wordpress
   percentage: 95
-  color: warning
+  color: success
 
 - name: Qt (C++)
   percentage: 85
+  color: warning
+
+- name: Cobra (Go)
+  percentage: 99
   color: warning
