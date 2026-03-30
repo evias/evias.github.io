@@ -48,10 +48,10 @@ continuing to grow my technology skills. My latest research includes:
 ✅ Verifiable end-to-end encrypted (E2EE) messaging and identity using key derivations ;<br />
 ✅ Distributed rewarding mechanism for e-fitness platforms including Strava (health2earn) ;<br />
 ✅ Wallet-, Explorer-, Monitoring software and software development kits for blockchain networks ;<br />
-✅ Generative AI software (NLG) for kids using our software <a href="https://edukiddies.dings.app" target="_blank">SaaS in schools</a> ;<br />
-✅ Expert SaaS software developer with over 21 years of <a href="https://resoftware.es/portfolio" target="_blank">experience in the industry</a> ;<br />
-✅ Published Author in the iX Magazine by Heise with <a href="https://www.heise.de/select/ix/2018/7/1531029675514769" target="_blank">"In Signo Veritas"</a> ;<br />
-✅ Published Tutor for ECCouncil Learning with <a href="https://learn.eccouncil.org/course/hands-on-cryptography-with-c" target="_blank">"Hands-On Cryptography with C++"</a> ;<br />
+<p>✅ Generative AI software (NLG) for kids using our software <a href="https://edukiddies.dings.app" target="_blank">SaaS in schools</a> ;</p>
+<p>✅ Expert SaaS software developer with over 21 years of <a href="https://resoftware.es/portfolio" target="_blank">experience in the industry</a> ;</p>
+<p>✅ Published Author in the iX Magazine by Heise with <a href="https://www.heise.de/select/ix/2018/7/1531029675514769" target="_blank">"In Signo Veritas"</a> ;</p>
+<p>✅ Published Tutor for ECCouncil Learning with <a href="https://learn.eccouncil.org/course/hands-on-cryptography-with-c" target="_blank">"Hands-On Cryptography with C++"</a> ;</p>
 <br /><br />
 👥 I think that I stand out from the crowd through my leadership skills, my enthusiasm
 for emerging technologies and my 21-years long professional experience as a software
