@@ -25,10 +25,10 @@ All the while, of course, continuing to grow my technology skills. My latest res
 ✅ Verifiable end-to-end encrypted (E2EE) messaging and identity using key derivations ;<br />
 ✅ Distributed rewarding mechanism for e-fitness platforms including Strava (health2earn);<br />
 ✅ Wallet-, Explorer-, Monitoring software and software development kits for blockchain networks;<br />
-✅ Generative AI software (NLG) for kids using our software (SaaS) in [schools][url-edukiddies] ;<br />
-✅ Expert [SaaS software developer][url-portfolio] with over 21 years of experience in the industry;<br />
-✅ Published Author in the [iX Magazine by Heise][url-partner-ix] with ["In Signo Veritas"][url-ix-article];<br />
-✅ Published Tutor for [ECCouncil Learning][url-partner-ecc] with [Hands-On Cryptography with C++][url-ecc-course];<br />
+✅ Generative AI software (NLG) for kids using our software (SaaS) in schools (https://edukiddies.dings.app) ;<br />
+✅ Expert SaaS software developer with over 21 years of experience in the industry (https://resoftware.es/portfolio);<br />
+✅ Published Author in the iX Magazine by Heise with "In Signo Veritas": https://www.heise.de/select/ix/2018/7/1531029675514769 ;<br />
+✅ Published Tutor for ECCouncil Learning with "Hands-On Cryptography with C++": https://learn.eccouncil.org/course/hands-on-cryptography-with-c ;<br />
 </div>
 
 ## Why would you sponsor me?
