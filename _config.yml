@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : "Grégory Saive - eVias"
 description         : >-
-                      Hi, I am Grégory Saive!<br />Software developer &amp; Author;<br />Hobbies: Music, Football, Racing
+                      Hi, I am Grégory Saive!<br />Software developer &amp; Author;<br />Hobbies: Music, Mountains, Racing
 baseurl             : "" # empty quotes for *.github.io
 repository          : evias/evias.github.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -21,19 +21,19 @@ nav_exclude:
 ### Author Info ###
 author:
   name              : Grégory Saive
-  image             : https://files.evias.be/avatar-greg-small-192x192.jpeg
+  image             : https://files.evias.be/evias_marley-avatar.png
   email             : greg@evi.as
-  facebook          : UBCDigital
+  facebook          : resoftwaresl
   github            : evias
   linkedin          : evias
-  twitter           : UBC_Digital
+  twitter           : evias
   youtube           : channel/UCnyWf1c2Gt8XjwliO-jz6gA
   keybase           : evias
 
 buymeacoffee:
   enabled: true
   username: evias
-  description: "Buy me a coffee!"
+  description: "Buy me a pizza!"
 
 ### Collections ###
 collections:
