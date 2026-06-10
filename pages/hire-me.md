@@ -18,7 +18,7 @@ weight: 1
   <a href='https://files.evias.be/CV.pdf' target="_blank">
     <img alt='Download my CV' src='https://img.shields.io/badge/Download_my CV-100000?style=for-the-badge&logo=Download my CV&logoColor=white&labelColor=0786E1&color=0786E1'/>
   </a>
-  <a href='https://calendly.com/ubcdigital/hire-me' target="_blank">
+  <a href='https://calendly.com/evias-services' target="_blank">
     <img alt='Jump on a call' src='https://img.shields.io/badge/Jump_on a call-100000?style=for-the-badge&logo=Jump on a call&logoColor=white&labelColor=00C781&color=00C781'/>
   </a>
   <a href='https://www.freelancer.com/u/ubcdigital' target="_blank">
