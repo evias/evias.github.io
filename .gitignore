@@ -1,8 +1,11 @@
+.DS_Store
+
 # Local Site Directories
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.vscode/
 
 # Ruby Gems
 .bundle
