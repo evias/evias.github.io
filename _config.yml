@@ -62,6 +62,7 @@ defaults:
 
 ### Exclude from processing ###
 exclude:
+  - AGENTS.md
   - README.md
   - CONTRIBUTING.md
   - LICENSE
