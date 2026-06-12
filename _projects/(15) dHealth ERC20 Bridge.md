@@ -6,7 +6,7 @@ description: dHealth ERC20 Bridge is a *distributed* bridge for ERC20
             Tokens with dHealth Network Mosaics. This software defines a **Unidirectional Bridge** for ERC20-DHP.
 ---
 
-# dHealth Health2Earn
+# dHealth ERC20 Bridge
 
 [![License](https://img.shields.io/badge/License-LGPL%203.0%20only-blue.svg)][license]
 [![Website](https://img.shields.io/badge/Website-green.svg)][parent-url]
