@@ -48,7 +48,12 @@ continuing to grow my technology skills. My latest research includes:
 ✅ Verifiable end-to-end encrypted (E2EE) messaging and identity using key derivations ;<br />
 ✅ Distributed rewarding mechanism for e-fitness platforms including Strava (health2earn) ;<br />
 ✅ Wallet-, Explorer-, Monitoring software and software development kits for blockchain networks ;<br />
-✅ Generative AI software (NLG) for kids using our software SaaS in schools ;<br />
+✅ Developed and released a NEM C++ blockchain fork which sustained 10M+ active users ;<br />
+✅ Developed and released a CometBFT production fork which sustained 150K TPS with 2M active users at peak ;<br />
+✅ Installed, fine-tuned, maintained large-language models (LLM) using Ollama, llamacpp and Open-WebUI ;<br />
+✅ Installed and maintained multi-GPU inference engines and LLM systems configuration and maintenance ;<br />
+✅ Exceptional depth with technology, daily work with AI/LLMs and agentic coding assistants ;<br />
+✅ Previous work in EdTech, FinTech, DeFi, NFTs, Tokenization, eLoyalty, MLM, Play2Earn ;<br />
 ✅ Expert SaaS software developer with over 21 years of experience in the industry ;<br />
 ✅ Published Author in the iX Magazine by Heise with "In Signo Veritas" ;<br />
 ✅ Published Tutor for ECCouncil Learning with "Hands-On Cryptography with C++" ;<br />
