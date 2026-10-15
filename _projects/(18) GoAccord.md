@@ -8,7 +8,7 @@ description: A secure, local, offline, end-to-end encrypted messaging
             format for profiles, contacts and messages.
 ---
 
-# Dotsig - Digital signatures on the fly
+# GoAccord - End-to-End Encrypted Messaging
 
 [![License](https://img.shields.io/github/license/evias/dotsig)][license]
 [![Website](https://img.shields.io/badge/Website-green.svg)][parent-url]
