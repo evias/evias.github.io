@@ -66,8 +66,10 @@ feed:
   icon: /assets/evias_with_marley_and_maya.png
   logo: /assets/evias_with_marley_and_maya.png
   collections:
-    - blog
-    - projects
+    posts:
+      path: "/blog.xml"
+    projects:
+      path: "/projects.xml"
 
 ### Exclude from processing ###
 exclude:
